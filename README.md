@@ -1,6 +1,6 @@
 ﻿# My First Django App
 
-This is a simple Django project based on [this YouTube tutorial](https://www.youtube.com/watch?v=nGIg40xs9e4) by CodeWithStein.
+This is a simple Django project based on [this YouTube tutorial](https://www.youtube.com/watch?v=nGIg40xs9e4) by Tech with Tim
 
 ## How to run
 
